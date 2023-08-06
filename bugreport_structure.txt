@@ -1,0 +1,28 @@
+1. Title
+
+2. Project
+
+3. Description
+
+4. Environment
+
+5. Build version
+
+6. Severity
+
+7. Priority
+
+8. Status
+
+9. Author
+
+10. Performer
+
+11. Steps to reproduse
+
+12. Expected result
+
+13. Actual result
+
+14. Attached files
+
